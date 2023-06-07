@@ -1,0 +1,19 @@
+       
+p {
+    color: blue;
+    text-align: center;
+
+}
+h3 {
+    color: #dd4b4bcc;
+}
+button {
+    text-decoration: #fff;
+}
+body{
+    background-image: url("https://img.motoryracing.com/noticias/portada/33000/33280-n.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment:fixed;
+}
